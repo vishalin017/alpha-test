@@ -1,1 +1,2 @@
-# alpha-test
+# alpha-testing
+testing the functionalities
